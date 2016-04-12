@@ -11,4 +11,4 @@ its landing speed on the moonsurface. **It can only land with a velocity less th
 Otherwise it will be destroyed. The **amount of fuel you got for landing is limited**.  
 Use it with whisdom. If you **hit any of the boulders on the moon the lunarmodule will be destroyed.**
 
-For further information visit the [wiki](wiki).
+For further information visit the [wiki](../../wiki).
